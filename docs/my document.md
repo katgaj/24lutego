@@ -49,7 +49,6 @@ Classic skis are designed for groomed trails (tracks). They are slightly longer 
 ### Base layers ###
  
 
-
 *Base layers* are close-fitting garments that are often made of wool or polypropylene (fancy plastic). Some folks refer to these as long underwear.
 
  They wick moisture away from your skin and help you retain heat. They are lightweight, breathable, and allow for a full range of motion. Base layers are typically composed of wind briefs (wind blocking) or underwear, then a pair of leggings and a long sleeve top.
