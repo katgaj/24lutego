@@ -3,7 +3,7 @@ title: Cross-country skiing
 layout: default
 nav_order: 2
 ---
-
+# Cross-country skiing #
 
  ![general-1
  ](../images/general-1.jpg)
