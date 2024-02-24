@@ -1,7 +1,6 @@
 ---
 title: Gear
 layout: default
-parent: sub-section
 nav_order: 1
 ---
 
