@@ -1,4 +1,4 @@
- ---
+---
 title: Cross-country skiing
 layout: default
 nav_order: 2
