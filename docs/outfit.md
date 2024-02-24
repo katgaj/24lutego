@@ -1,5 +1,5 @@
 ---
-title: Gear
+title: Outfit
 layout: default
 nav_order: 5
 ---
