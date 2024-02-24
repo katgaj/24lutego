@@ -2,7 +2,7 @@
 title: Cross-country skiing
 layout: default
 nav_order: 2
-has children: true
+has_children: true
 ---
 
  # Cross-country skiing <!-- omit in toc -->
