@@ -48,7 +48,7 @@ Classic skis are designed for groomed trails (tracks). They are slightly longer 
 
 ### Base layers ###
  
-![alt text](<base layers-1.jpg>)
+![alt text](../images/base%20layers.jpg)
 
 *Base layers* are close-fitting garments that are often made of wool or polypropylene (fancy plastic). Some folks refer to these as long underwear.
 
