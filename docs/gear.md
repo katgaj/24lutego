@@ -1,7 +1,7 @@
 ---
 title: Gear
 layout: default
-nav_order: 1
+nav_order: 4
 ---
 
 ## Gear ##
