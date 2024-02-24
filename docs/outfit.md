@@ -8,7 +8,7 @@ nav_order: 5
 
 ### Base layers ###
  
- ![alt text](../images/<base layers_576x576-2.jpg)
+ ![alt text](<base layers-2.jpg>)
 
 *Base layers* are close-fitting garments that are often made of wool or polypropylene (fancy plastic). Some folks refer to these as long underwear.
 
