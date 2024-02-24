@@ -1,7 +1,7 @@
 ---
 title: Base layers
 layout: default
-parent: outfit
+parent: outfitsub1
 nav_order: 1
 ---
 
