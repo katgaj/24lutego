@@ -1,7 +1,7 @@
 ---
 title: Gear
 layout: default
-parent: cross-country skiing
+parent: my document
 nav_order: 1
 ---
 
