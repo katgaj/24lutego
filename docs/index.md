@@ -1,4 +1,8 @@
- 
+ ---
+title: Cross-country skiing
+layout: default
+---
+
  # Cross-country skiing <!-- omit in toc -->
  
 - [What is cross-country skiing](#what-is-cross-country-skiing)
