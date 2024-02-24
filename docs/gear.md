@@ -1,7 +1,7 @@
 ---
 title: Gear
 layout: default
-parent: my document
+parent: sub-section
 nav_order: 1
 ---
 
