@@ -1,5 +1,5 @@
 ---
-title: Middlee layers
+title: Middle layers
 layout: default
 parent: outfit
 nav_order: 2
