@@ -38,3 +38,9 @@ Try:
 3. Russian twists
 4. supine leg lifts
 5. supermans.
+
+### Nutrition ###
+ 
+What you eat as crucial as your training. You will need carbohydrates to fuel your functions. So choose a diet with low sugar and fat while including high fiber carbohydrate alternatives like whole-grain bread, cereals, and grains.
+
+Some skiers also prefer to take vitamin D since the winter months might not offer sufficient sunlight. While skiing, you should also remember to stay hydrated, preferably with water, and avoid caffeine. Also, the best choice would be a low-fat protein bar that will help to keep your energy up.
