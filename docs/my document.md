@@ -4,21 +4,6 @@ layout: default
 nav_order: 2
 ---
 
- # Cross-country skiing <!-- omit in toc -->
- 
-- [What is cross-country skiing](#what-is-cross-country-skiing)
-- [The origins](#the-origins)
-- [Gear](#gear)
-- [Outfit](#outfit)
-  - [Base layers](#base-layers)
-  - [Middle layers](#middle-layers)
-  - [Outer layers](#outer-layers)
-  - [Head and neck](#head-and-neck)
-  - [Hands and feet](#hands-and-feet)
-- [Body preparation](#body-preparation)
-  - [Cardio training](#cardio-training)
-  - [Working on your core](#working-on-your-core)
-  - [Nutrition](#nutrition)
 
  ## What is cross-country skiing ##
 
