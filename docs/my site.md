@@ -48,7 +48,7 @@ Long distance skiing, or marathon skiing, has been around ever since the latter 
 
 The basic equipment required are as follows: **skis** with bindings, **boots**, and **poles**.
 
-![alt text](skis_576x576-1.jpeg)
+![alt text](../images/skis_576x576-1.jpeg)
 
 Cross-country skiing has two main technique branches: classic and skating. The style you partake in will dictate what equipment you will need.
 
