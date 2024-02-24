@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 ## Gear ##
+
 The basic equipment required are as follows: **skis** with bindings, **boots**, and **poles**.
 
 ![alt text](../images/skis_576x576-1.jpeg)
