@@ -5,9 +5,6 @@ nav_order: 2
 ---
 
 
- ## What is cross-country skiing ##
-
-
  ![general-1
  ](../images/general-1.jpg)
 
