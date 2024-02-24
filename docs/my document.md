@@ -1,6 +1,7 @@
  ---
 title: Cross-country skiing
 layout: default
+nav_order:2
 ---
 
  # Cross-country skiing <!-- omit in toc -->
