@@ -1,36 +1,9 @@
 ---
-title: Cross-country skiing
+title: The origins
 layout: default
 nav_order: 3
 
 ---
-
-# Cross-country skiing <!-- omit in toc -->
- 
-- [What is cross-country skiing](#what-is-cross-country-skiing)
-- [The origins](#the-origins)
-- [Gear](#gear)
-- [Outfit](#outfit)
-  - [Base layers](#base-layers)
-  - [Middle layers](#middle-layers)
-  - [Outer layers](#outer-layers)
-  - [Head and neck](#head-and-neck)
-  - [Hands and feet](#hands-and-feet)
-
- ## What is cross-country skiing ##
-
- ![general-1
- ](../images/general-1.jpg)
-
-Cross-country skiing is a form of skiing where participants ski across flat or undulating terrain, as opposed to downhill skiing. 
-
-It is a popular winter sport and recreational activity that involves propelling oneself over snow-covered landscapes using skis and poles.
-
- Unlike , which emphasizes descending slopes, cross-country skiing focuses on horizontal movement over varying terrains in contrast to downhill skiing where you descend the slope.
-
-It is both a competitive sport, with events such as the Nordic skiing disciplines in the Winter Olympics, and a popular recreational activity enjoyed by individuals of all skill levels. Moreover, some still use it as a means of transportation.
-
-It is an excellent cardiovascular workout, engaging various muscle groups, and offers a unique way to experience the winter landscape.
 
 ## The origins ##
  Its history goes way back to the ancient times. The word ski comes from the Old Norse word skíð which means a stick of wood. Skiing started as a technique for traveling cross-country over snow on skis, starting almost five millennia ago in Scandinavia, but it may have been practised as early as 600 BCE in China. Additionally, the Sami people have practiced skiing for more than 6000 years.
