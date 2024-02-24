@@ -18,7 +18,7 @@ layout: default
  ## What is cross-country skiing ##
 
  ![general-1
- ]../images/(general-1.jpg)
+ ](../images/general-1.jpg)
 
 Cross-country skiing is a form of skiing where participants ski across flat or undulating terrain, as opposed to downhill skiing. 
 
