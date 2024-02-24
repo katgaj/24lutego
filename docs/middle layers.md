@@ -1,7 +1,7 @@
 ---
 title: Middle layers
 layout: default
-parent: outfit
+parent: outfitsub
 nav_order: 2
 ---
 
