@@ -1,5 +1,5 @@
 ---
-title: base layers
+title: Base layers
 layout: default
 parent: Outfit
 nav_order: 2
