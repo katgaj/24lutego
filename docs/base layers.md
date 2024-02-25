@@ -1,7 +1,7 @@
 ---
-title: section 1
+title: base layers
 layout: default
-parent: subsection
+parent: outfit
 nav_order: 1
 ---
 
