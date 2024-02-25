@@ -2,7 +2,7 @@
 title: Middle layers
 layout: default
 parent: Outfit
-nav_order: 3
+nav_order: 2
 ---
 
 ### Middle layers ###
