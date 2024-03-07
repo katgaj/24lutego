@@ -8,7 +8,7 @@ nav_order: 4
 
 The basic equipment required are as follows: **skis** with bindings, **boots**, and **poles**.
 
-![alt text](../images/skis_576x576-1.jpeg)
+![skis](../images/skis_576x576-1.jpeg)
 
 Cross-country skiing has two main technique branches: classic and skating. The style you partake in will dictate what equipment you will need.
 
